@@ -20,8 +20,16 @@
 
 I am a young space researcher <img src="https://media.giphy.com/media/PmnZpShBXOPHa/giphy.gif" width="35"> 
 
-- 🔭 I’m currently working on kinematics of solar flares.
+- 🔭 I’m currently working on kinematics of solar flares
+- 💻 I'm fond of data analysis
 - 📫 How to reach me: Telegram or VK
 - 😄 Languages: Russian, English, German
 - ⚡ I like chess, boxing and can play on spoons
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
